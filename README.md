@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Ryoki Sasamoto 👋
 
-<!--
-**Sas-ry/Sas-ry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm Ryoki Sasamoto from Japan 🙌.  
+I'm a platform/DevOps engineer working with AWS, TypeScript, and DevOps tooling.  
+I enjoy building developer platforms, improving CI/CD pipelines, and automating everything I can.  
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+### ✍️ Languages
+[TypeScript](https://www.typescriptlang.org/) / [Python](https://www.python.org/) / [Java](https://www.java.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud & 🚧 Infrastructure
+[AWS](https://aws.amazon.com/) (CDK / Lambda / ECS / RDS)  
+
+### 🔄 CI/CD & 🛠️Dev Tools
+AWS CodeBuild / CodePipeline  
+CloudFormation / Serverless Framework  
+Linux / Git
+
+## 🚀 What I'm Working On
+- Building internal developer platforms on AWS  
+- Improving deployment pipelines for multi-account environments  
+- Exploring modern IaC tools and patterns  
+- Contributing to OSS (AWS CDK, etc.)
